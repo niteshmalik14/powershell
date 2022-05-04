@@ -1,5 +1,2 @@
-Get-ChildItem -Path 'C:/'
-echo "task started"
-get-item .
-set-location D:\
-get-item *
+set-path "D:\"
+new-item helloish.txt -value "yolo"
