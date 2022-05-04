@@ -1,1 +1,1 @@
-New-Item -Path 'C:\Users\Malik\Desktop\powershell scripts\folder1' -ItemType Directory
+echo "hello"
