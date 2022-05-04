@@ -1,5 +1,5 @@
 pwd
 echo "hello"
 get-date
-cd /
-dir pwd
+$a = cd /
+dir $a
