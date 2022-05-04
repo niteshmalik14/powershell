@@ -1,3 +1,3 @@
 Get-ChildItem -Path 'C:/'
-echo "hello"
-Get-Date
+echo "task started"
+get-item .
