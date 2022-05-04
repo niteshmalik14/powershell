@@ -1,1 +1,2 @@
 echo "hello"
+get-date
