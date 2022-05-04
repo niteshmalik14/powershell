@@ -1,2 +1,2 @@
 set-location "D:\"
-new-item helloish.txt -value "yolo" -Confirm
+new-item -path "D:\" -name helloish.txt -ItemType "file" -value "yolo" -Confirm
