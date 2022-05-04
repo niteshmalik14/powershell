@@ -1,5 +1,5 @@
-$a = test-path D:\
-if ($a -eq true)
+$a = 10
+if ($a%2 -eq 0)
 {
-echo "path exists"
+echo "a is even"
 }
