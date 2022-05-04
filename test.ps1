@@ -1,3 +1,3 @@
-get-ChildItem -path "C:/" -driector
+get-ChildItem -path "C:/" -directory
 echo "hello"
 get-date
