@@ -1,4 +1,3 @@
-$a = cd C:
-echo $a
+pwd
 echo "hello"
 get-date
