@@ -1,4 +1,4 @@
-$a = get-childitem -path 'C:'
+$a = cd C:
 echo $a
 echo "hello"
 get-date
