@@ -8,7 +8,7 @@ pipeline {
         git 'https://github.com/niteshmalik14/powershell.git'
 
         // To run Maven on a Windows agent, use
-        bat "mvn clean package"
+        bat 'mvn clean package'
       }
 
       post {
