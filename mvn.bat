@@ -1,1 +1,1 @@
-mvn -Dmaven.test.failure.ignore=true clean package
+'mvn clean package'
