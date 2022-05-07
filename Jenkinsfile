@@ -6,7 +6,7 @@ pipeline {
          steps {
             // Get some code from a GitHub repository
             git 'https://github.com/niteshmalik14/powershell.git'
-            bat "mvn clean package"
+            bat "mvn clean install"
          }
 
          post {
